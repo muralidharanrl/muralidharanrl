@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @muralidharanrl
-- 👀 I’m interested in Data science/Data analytics
-- 🌱 I’m currently learning Machine Learning and deep learning
-- 💞️ I’m looking to collaborate on  data science related field
+- 👋 Hi, there
 
 
 <!---
